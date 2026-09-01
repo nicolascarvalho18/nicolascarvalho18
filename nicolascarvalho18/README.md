@@ -63,16 +63,5 @@ Tenho interesse em projetos Java, backend, APIs, aplicações Full Stack, cloud,
   <a href="https://www.linkedin.com/in/nicolas-carvalho-ferreira-7b61a7335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-#
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolascarvalho18/nicolascarvalho18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolascarvalho18/nicolascarvalho18/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/nicolascarvalho18/nicolascarvalho18/output/pacman-contribution-graph.svg">
-</picture>
-
-#
 
 <p align="center"><i>"Transformando ideias em código e soluções em resultados."</i></p>
